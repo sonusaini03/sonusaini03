@@ -11,6 +11,7 @@ I am an aspiring Data Analyst passionate about uncovering actionable insights fr
 
 ## 🔗 Let's Connect
  **Email:** [sonu12442177@gmail.com]
+ **Portfolio:**[https://sonusaini-portfolio.netlify.app/]
 
 ## 📂 Projects
 
