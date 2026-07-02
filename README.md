@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sonu Saini.
 
-<!--
-**sonusaini03/sonusaini03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am an aspiring Data Analyst passionate about uncovering actionable insights from complex datasets. I enjoy transforming raw numbers into clear, visual stories to support data-driven decision-making.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+* **Data Visualization:** Power BI
+* **Database Management:** SQL
+* **Analysis & Cleaning:** Microsoft Excel
+* **Core Competencies:** Data Cleaning, Statistical Analysis, Dashboarding, and Reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect
+ **Email:** [sonu12442177@gmail.com]
+
+## 📂 Projects
+
+
+
